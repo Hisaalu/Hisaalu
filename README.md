@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">👨‍💻 About</h1>
 
-<!--
-**Hisaalu/Hisaalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+  <td valign="center">
 
-Here are some ideas to get you started:
+I am a Techie and generalist passionate about Computer Science, design, open source, and dev communities. Addicted to learning, exploring, breaking, and creating things. 🚀 Many At A time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Let’s Connect:**
+
+- 📧 Email: [hisaalujuniornelson@gmail.com](mailto:hisaalujuniornelson@gmail.com)
+- 🐙 GitHub: [Hisaalu](https://github.com/Hisaalu)
+- 🌍 Social media: `@Hisaalu_JNelson` (or similar variants) on most platforms—LinkedIn, X, etc.
+- ☕ I really like coffee
+
+Open for collaborations, consultation, work, friends, chatting, and anything fun!  
+     </td>               
+</tr>
+</table>
