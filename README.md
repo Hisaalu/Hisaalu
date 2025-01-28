@@ -10,7 +10,7 @@ I am a Techie and generalist passionate about Computer Science, design, open sou
 
 - 📧 Email: [hisaalujuniornelson@gmail.com](mailto:hisaalujuniornelson@gmail.com)
 - 🐙 GitHub: [Hisaalu](https://github.com/Hisaalu)
-- 🌍 Social media: `@Hisaalu_JNelson` (or similar variants) on most platforms—LinkedIn, X, etc.
+- 🌍 Social media: `@hisaalunelson` (or similar variants) on most platforms—LinkedIn, X, etc.
 - ☕ I really like coffee
 
 Open for collaborations, consultation, work, friends, chatting, and anything fun!  
